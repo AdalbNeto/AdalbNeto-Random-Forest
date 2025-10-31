@@ -7,7 +7,7 @@ Este projeto apresenta a implementação de um **pipeline automatizado em Python
 O objetivo é investigar a influência do balanceamento de classes no desempenho de modelos de aprendizado supervisionado, aplicando técnicas de pré-processamento, validação cruzada e otimização estocástica de hiperparâmetros.  
 
 ---
-
+ 
 ## ⚙️ Metodologia
 
 ### 1. Pré-processamento
